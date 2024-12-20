@@ -1,18 +1,35 @@
-## Getting Started
+## STUDI KASUS PERPUSTAKAAN DENGAN JAVA 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Member
+# Mencari Buku
+![image](https://github.com/user-attachments/assets/47735656-2b99-47bd-9d6d-7f0deecc23db)
 
-## Folder Structure
+![image](https://github.com/user-attachments/assets/e247ce4b-36c3-4854-a70d-c8955ee3421a)
 
-The workspace contains two folders by default, where:
+# Meminjam Buku
+![image](https://github.com/user-attachments/assets/d43db820-f5ca-4098-a52c-56b88167eb4b)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Petugas
+# Menambah Buku
+![image](https://github.com/user-attachments/assets/9675997b-40bb-4c97-a8d1-fdd131db2173)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+![image](https://github.com/user-attachments/assets/d022e01f-a0f8-4e58-8da6-d4a8610a2c44)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+# Menambah Member
+![image](https://github.com/user-attachments/assets/18d40ddb-b06a-477b-ad04-ece92aa2c1c4)
 
-## Dependency Management
+# Melihat Daftar Buku
+![image](https://github.com/user-attachments/assets/d75e3fd9-1139-484e-a15b-b58b7def0351)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+# Melihat Daftar Member 
+![image](https://github.com/user-attachments/assets/ab8831af-aa3b-4e86-a20f-47881d4cbcba)
+
+
+
+
+
+
+
+
+
+
